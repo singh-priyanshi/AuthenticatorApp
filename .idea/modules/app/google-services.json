@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830756634460",
+    "firebase_url": "https://authapp-61aa1.firebaseio.com",
+    "project_id": "authapp-61aa1",
+    "storage_bucket": "authapp-61aa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830756634460:android:04212816d96bfd4b4b0b99",
+        "android_client_info": {
+          "package_name": "com.priyanshi.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830756634460-u483clq1b51bjna7tno1pbqidi1cn3th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.priyanshi.authenticatorapp",
+            "certificate_hash": "03ef7b8c6b3a3ba8c07db0468e7ae83c79d67ece"
+          }
+        },
+        {
+          "client_id": "830756634460-aksja1nsebqerfruq82mcie6kq6m7aqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGnW4GlX8A2-GlEl0eOrtUbEGuPEkHxw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830756634460-aksja1nsebqerfruq82mcie6kq6m7aqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
