@@ -9,5 +9,7 @@ Features
 4.	Verify User Email
 
 •	PLATFORM USED: ANDROID STUDIO 4.0
+
 •	The language used: Java, XML
+
 •	Database: Firebase
